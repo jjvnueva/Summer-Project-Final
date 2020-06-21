@@ -1,0 +1,66 @@
+body {
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content_contact_us {
+    width: 100%;
+    height: 1600px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.contact_information1 {
+    margin: 0 auto;
+    margin-top: 50px;
+    height: 225px;
+    width: 350px;
+}
+
+.contact_details {
+    text-align: center;
+    font-size: 15px;
+}
+
+textarea.comment_box {
+    height: 200px;
+}
+
+.comment_box {
+    margin-top: 20px;
+    display: block;
+    width: 98%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #555;
+    vertical-align: middle;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s
+}
+
+input,
+textarea {
+    font: 14px 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: normal;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 23px;
+    color: #727272;
+}
+
+.comment_display {
+    width: 100%;
+    height: 1000px;
+    background-color: #dcdcdc;
+}
